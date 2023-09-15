@@ -1,9 +1,9 @@
 <?php 
 $conexion = mysqli_connect(
-    "localhost",//servidor web
-    "root",//usuario db
-    "",//contraseña
-    "db_conexion"//db
+    "localhost",
+    "root",
+    "",
+    "db_conexion"
 );
 if($conexion){
 }   
